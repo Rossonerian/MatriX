@@ -32,6 +32,7 @@ Add these values to `.env.local` for live authentication and persistence:
 
 ```env
 NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your-publishable-key
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
