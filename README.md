@@ -2,6 +2,8 @@
 
 MatriX is a construction and industrial resource management platform for project teams, warehouses, procurement teams, and factory operations.
 
+**Live demo:** [matrix-6mq9u2tyu-kashyaparnav2005-4091s-projects.vercel.app](https://matrix-6mq9u2tyu-kashyaparnav2005-4091s-projects.vercel.app)
+
 ## What is included
 
 - Operations dashboard with project health, material flow, approvals, and advisory AI signals
